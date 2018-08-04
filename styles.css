@@ -1,0 +1,45 @@
+.googlelogo img {
+    width: 600px;
+    height: 400px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    position: relative;
+    top: 100px;
+}
+
+div header a.head {
+    position: relative;
+    float: right;
+    display: inline-block;
+    text-align: right;
+}
+
+.topnav input[type=text] {
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    display: block;
+    font-size: 17px;
+    width: 500px;
+    height: 30px;
+}
+
+.submit button {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+}
+
+div footer a.foot {
+    float: right;
+    display: inline-block;
+    text-align: right;
+}
+footer {
+    position:fixed;
+    left:0px;
+    bottom:0px;
+    height:30px;
+}
